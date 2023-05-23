@@ -10,4 +10,4 @@
 
 | Проект | Описание | 
 | :-------| :-----------|
-| [**Titanic - Machine Learning from Disaster**](https://github.com/Norlet/Kaggle-Competitions/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb) | Цель - разработать модель, предсказывающую выживаемость пассажиров.
+| [**Titanic - Machine Learning from Disaster**]([https://github.com/Norlet/Kaggle-Competitions/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb](https://github.com/Norlet/Kaggle-Competitions/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic_Machine_Learning_from_Disaster%20.ipynb)) | Цель - разработать модель, предсказывающую выживаемость пассажиров.
