@@ -16,4 +16,4 @@
 
 ## Ссылка на соревнование
 
-https://www.kaggle.com/competitions/titanic/overview
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting
