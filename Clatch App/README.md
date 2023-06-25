@@ -9,7 +9,7 @@
 
 Пример диаграммы воронки: 
 
-![Логотип GitHub](https://drive.google.com/file/d/1L3cFZhaRauRVEN9xxcfbxE1Y7QKMJ3cl/view?usp=drive_link)
+![Логотип GitHub](https://sun9-47.userapi.com/impg/zIzNrBNo3pan2XGOVvvLpuS5S_S-acMbkUaowA/kw5x3oAm4cE.jpg?size=1285x525&quality=96&sign=a24dbf606a8250504d83a0c7efa17e91&type=album)
 
 
 Пример гистограммы с цветовой палитрой, доступной для дальтоников: 
