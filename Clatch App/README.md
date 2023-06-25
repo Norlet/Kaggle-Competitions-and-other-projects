@@ -14,5 +14,5 @@
 
 Пример гистограммы с цветовой палитрой, доступной для дальтоников: 
 
-![Логотип GitHub](https://drive.google.com/file/d/1L3cFZhaRauRVEN9xxcfbxE1Y7QKMJ3cl/view?usp=drive_link)
+![Логотип GitHub](https://drive.google.com/file/d/1fZGSoNxKPvPtR5nG4ZkCELTMZgb3zPnk/view?usp=drive_link)
 
