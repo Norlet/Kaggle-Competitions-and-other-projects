@@ -10,3 +10,8 @@
 В таблице regs.csv 2 столбца: periods с датами и users с количеством регистраций. Всего в наличии 26 месяцев с данными. 
 
 ![Table](https://github.com/Norlet/Kaggle-Competitions/blob/main/eLama/images/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B01.PNG)
+
+Рассмотрим график распределения регистраций по месяцам
+
+![Table_2](https://github.com/Norlet/Kaggle-Competitions/blob/main/eLama/images/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B02.png)
+
