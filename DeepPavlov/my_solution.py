@@ -1,5 +1,4 @@
 import random
-import test_solution
 
 
 class KnightsTour:
