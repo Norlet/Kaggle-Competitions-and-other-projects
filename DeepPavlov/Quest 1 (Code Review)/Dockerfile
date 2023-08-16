@@ -1,4 +1,5 @@
-FROM python:3
+# уточним версию python
+FROM python:3.8 
 
 WORKDIR /usr/src/app
 
