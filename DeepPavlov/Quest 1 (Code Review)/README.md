@@ -16,3 +16,9 @@ make test
 
 # [**Список внесенных мной изменений**](https://github.com/Norlet/Kaggle-Competitions-and-other-projects/blob/main/DeepPavlov/Quest%201%20(Code%20Review)/Recap.md)
 
+Уточнил версии python и библиотек
+Настроил копирование файлов в Dockerfile
+Увеличил производительность добавлением команд в один RUN
+Добавил проверку на валидность данных
+Добавил конфиг файл
+Разбил код на функции
