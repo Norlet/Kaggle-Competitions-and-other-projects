@@ -28,4 +28,6 @@ make test_example
 make test
 ```
  
- 
+ # Мой score 
+
+ Score = ~0.8
