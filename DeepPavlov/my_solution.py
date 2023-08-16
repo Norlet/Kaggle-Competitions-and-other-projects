@@ -1,5 +1,5 @@
 import random
-
+import test_solution
 
 class KnightsTour:
     def __init__(self, n: int, m: int):
@@ -115,7 +115,7 @@ def main(desk_size: list):
 
 
 if __name__ == "__main__":
-    # score = test_solution.evaluate_task([5, 5], main)
-    # print(f"task {score=}")
-    print(main([9,10]))
+     score = test_solution.evaluate_task([5, 5], main)
+     print(f"task {score=}")
+     print(main([9,10]))
     # main([5,5])
