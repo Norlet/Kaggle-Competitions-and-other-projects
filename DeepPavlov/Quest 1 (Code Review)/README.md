@@ -12,3 +12,7 @@
 ```bash
 make test
 ```
+
+
+# [**Список внесенных мной изменений**](https://github.com/Norlet/Kaggle-Competitions-and-other-projects/blob/main/DeepPavlov/Quest%201%20(Code%20Review)/Recap.md)
+
