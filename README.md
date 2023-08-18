@@ -14,3 +14,4 @@
 | [**Clatch App - Визуализация воронки показателей**](https://github.com/Norlet/Kaggle-Competitions/tree/main/Clatch%20App) | Цель - визуализировать графики воронки метрик.
 | [**Titanic - Machine Learning from Disaster**](https://github.com/Norlet/Kaggle-Competitions/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/Titanic_Machine_Learning_from_Disaster%20.ipynb) | Цель - разработать модель, предсказывающую выживаемость пассажиров.
 | [**Store Sales - Time Series Forecasting with ARIMA**](https://github.com/Norlet/Kaggle-Competitions/blob/main/Store%20Sales%20-%20Time%20Series%20Forecasting/Store%20Sales%20-%20Time%20Series%20Forecasting%20with%20ARIMA.ipynb) | Цель - предсказать продажи магазина в Эквадоре.
+| [**Deep Pavlov - Tesselation Quest**](https://github.com/Norlet/Kaggle-Competitions-and-other-projects/tree/main/DeepPavlov) | Цель - решить задачу замощения шахматной доски произвольного размера, а также проверка на корректность кода.
