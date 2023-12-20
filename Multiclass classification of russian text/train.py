@@ -44,7 +44,7 @@ def calculate_f1_score(true, predicted):
     return f1_score(true, predicted, average='weighted')
 
 # Функция для обучения модели и получения предсказаний
-def rf_model(features_train_idf, target_train, features_test_idf, target_test):
+def rf_model(model, params, features_train_idf, target_train, features_test_idf, target_test):
     param_grid = {
         'n_estimators': [100, 200, 300], 
         'max_depth': [3, 5, 7, None]
@@ -132,3 +132,24 @@ mnb = MultinomialNB()
 
 # Использование функции для обучения модели
 best_mnb_model, mnb_predictions = mnb_model(mnb, mnb_grid, features_train_idf, target_train, features_test_idf, target_test)
+
+
+
+
+
+
+
+
+
+
+
+
+
+__________________________________________________________________
+
+
+def train_model(model_name):    
+    if model_name == “dummy_model”:
+        return knn_train(параметры)
+
+   if mode_name == другое: другое
