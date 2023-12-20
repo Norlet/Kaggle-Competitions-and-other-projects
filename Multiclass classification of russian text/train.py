@@ -105,7 +105,7 @@ def calculate_f1_score(true, predicted):
     return f1_score(true, predicted, average='weighted')
 
 # Функция для обучения модели и получения предсказаний
-def mnb_model(model, params, features_train_idf, target_train_encoded, features_test_idf, target_test):
+def mnb_model(model, params, features_train_idf, target_train_encoded, features_test_idf):
     grid = GridSearchCV(estimator=model, param_grid=params, scoring='f1_macro', cv=5)
     grid.fit(features_train_idf, target_train_encoded)
     print(f'Лучшие параметры: {grid.best_params_}')
@@ -146,10 +146,33 @@ best_mnb_model, mnb_predictions = mnb_model(mnb, mnb_grid, features_train_idf, t
 
 
 __________________________________________________________________
+def train(model_name, features_train_idf, target_train_encoded, features_test_idf):
+    """
+    Train your model
+    Supported models: KNN,
+                    и тд
+    """
+    SUPPORTED_MODELS = ['KNN', 'SVM','Logistic Regression', 'MNB', 'Random Forest', 'Dummy Classifier']
+    if model_name not in [SUPPORTED_MODELS]:
+        print(f'model are not supported, choose one from {SUPPORTED_MODELS}')
+        
+    if model_name == 'KNN':
+        best_model, predictions = knn_model(features_train_idf, target_train_encoded, features_test_idf)
+        
+    if model_name == 'SVM':
+        best_model, predictions = svm_model(features_train_idf, target_train_encoded, features_test_idf)
+        
+    if model_name == 'Logistic Regression':
+        best_model, predictions = logreg_mod(features_train_idf, target_train_encoded, features_test_idf)
+    
+    if model_name == 'MNB':
+        best_model, predictions = mnb_model(features_train_idf, target_train_encoded, features_test_idf)
 
+    if model_name == 'Random Forest':
+        best_model, predictions = rf_model(features_train_idf, target_train_encoded, features_test_idf)
 
-def train_model(model_name):    
-    if model_name == “dummy_model”:
-        return knn_train(параметры)
+    if model_name == 'Dummy Classifier':
+        best_model, predictions = dummy_mod(features_train_idf, target_train_encoded, features_test_idf)
+    
+    return best_model, predictions
 
-   if mode_name == другое: другое
