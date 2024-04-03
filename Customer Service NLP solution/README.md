@@ -28,5 +28,5 @@ label - метка класса на которую надо обучиться
 
 ## Используемые библиотеки
 
-**pandas, sklearn, numpy, BERT, LinearRegression, SVM, Naive Bayes, tf-idf, nltk, RandomForestClassifier, Optuna**
+**BERT, LinearRegression, SVM, Naive Bayes, RandomForestClassifier,pandas, sklearn, numpy, tf-idf, nltk, Optuna**
 
