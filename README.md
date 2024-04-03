@@ -10,6 +10,7 @@
 
 | Проект | Описание | 
 | :-------| :-----------|
+| [**Customer Service NLP solution**](https://github.com/Norlet/Kaggle-Competitions-and-other-projects/tree/main/Customer%20Service%20NLP%20solution) | Цель - требуется предложить NLP решение для корректной автоматической маршрутизации клиентов к подходящему отделу службы поддержки.
 | [**Multiclass classification of russian text**](https://github.com/Norlet/Kaggle-Competitions-and-other-projects/tree/main/Multiclass%20classification%20of%20russian%20text) | Цель - обучение модели классификации негативных отзывов, которая позволит получать детальную аналитику по проблемам клиентов в автоматическом режиме.
 | [**Deep Pavlov - Tesselation Quest**](https://github.com/Norlet/Kaggle-Competitions-and-other-projects/tree/main/DeepPavlov) | Цель - решить задачу замощения шахматной доски произвольного размера, а также проверка на корректность кода.
 | [**Store Sales - Time Series Forecasting with ARIMA**](https://github.com/Norlet/Kaggle-Competitions/blob/main/Store%20Sales%20-%20Time%20Series%20Forecasting/Store%20Sales%20-%20Time%20Series%20Forecasting%20with%20ARIMA.ipynb) | Цель - предсказать продажи магазина в Эквадоре.
